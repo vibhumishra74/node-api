@@ -1,0 +1,31 @@
+{
+  "name": "MS_Hacker-news_Draco_Tep_Online_Full-time_2020_1",
+  "version": "1.0.0",
+  "description": "## Learning Competencies",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/MS_Hacker-news_Draco_Tep_Online_Full-time_2020_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/MS_Hacker-news_Draco_Tep_Online_Full-time_2020_1/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/MS_Hacker-news_Draco_Tep_Online_Full-time_2020_1#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11",
+    "mongoose-unique-validator": "^2.0.3",
+    "nodemon": "^2.0.6"
+  }
+}
